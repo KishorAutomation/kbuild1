@@ -3,9 +3,9 @@
 <suite name="Suitek1">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="P1.selenium1"/>
-      <class name="P1.TakeScreenshot"/>
-      <class name="P1.AflacConnect_GetWindowHandler"/>
+         <class name="SElenium.selenium1"/>
+      <class name="SElenium.TakeScreenshot"/>
+      <class name="SElenium.AflacConnect_GetWindowHandler"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
